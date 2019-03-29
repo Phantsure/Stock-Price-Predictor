@@ -1,2 +1,2 @@
 # Stock-Price-Predictor
-Predicts stock prices using previous stock prices. Don't invest money on basis of this repo, as stock prices prediction require much more than just previous stock prices.
+Predicts stock prices using previous stock prices. Don't invest money on basis of this repo and if you do, then don't blame me if you lose millions or go bankrupt.
